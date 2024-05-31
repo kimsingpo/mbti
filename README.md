@@ -25,5 +25,5 @@ div {
 <div class="box">BOX!</div>
 ```
 ```js
-const hrllo = 'Hello world?!'
+const hello = 'Hello world?!'
 ```
